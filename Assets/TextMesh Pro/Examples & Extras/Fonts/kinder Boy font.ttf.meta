@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5e293dc79352d434d9d10d32ae3cda02
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kinder Boy
+  fontNames:
+  - Kinder Boy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2e9c6fb596686aa4bb2a9ae4f25dbd8b, type: 3}
+  - {fileID: 12800000, guid: 263b80788676bba40b652c70bdbb5160, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
